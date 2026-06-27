@@ -1,0 +1,14 @@
+{
+  "name": "AI DRONE LAB — 인공지능드론연구소",
+  "short_name": "AI DRONE LAB",
+  "description": "AI 기반 드론·영상·안티드론 기술 연구 및 교육 플랫폼",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d1220",
+  "theme_color": "#1B2440",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
